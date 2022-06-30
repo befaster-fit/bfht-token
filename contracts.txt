@@ -1,0 +1,22 @@
+
+BSC - testnet
+Token 0 at:  0x7B1cf917D8C36eb836b1Fb16f2E3f786857c7e3B
+Token 1 at:  0xd976125aD3938621ed36af584EC40313A7172dB5
+Token 2 at:  0xf5c5EdbcB79491E3761e2A53E4C390a25eC2235a
+Token 3 at:  0xB2AD16A3EdBc983aAC7Af9fC1717C8d9d4756429
+Stake Manager (Token 0) at 0x0F5895659D43e8bAfb62d0c4c9667F4f687C5635 - origin 19639248
+Stake Manager (Token 1) (Registerable, Proxy) at 0xfEa19d0c93E4919d6CCdc6d790984BAEfcDB8A40 - origin 19639346
+    - Registry at: 0xe60d17fEaCdBf739bf6bD3e8Af5693e9d90D971c
+origin block: 18357767
+(Uniswap) Pair Factory at: 0xC500b9a3D613E05ecCf203Bf761627Ad023c379B
+(Uniswap) Pair Router at: 0x6Ab0c90a6293444Af16ABb070D2E59e0cA01D423
+(Uniswap) Token pair 1-2 at 0x6B0e9A9815371501112503a38fc2a24f4c3eCc0b
+(Uniswap) Token pair 2-3 at 0xE9FFf39C20C14a8e33A56299e4b1fbA42B1094CB
+(Uniswap) Token pair 0-2 at 0x5d0C17C57f66D47d57D3462A53BC2e850db9ACb1
+
+
+
+//mainnet
+BSC - mainnet
+Stake Manager(BFHT) at 0x99aC4957931Cf2eB46F1c49d06c76eA8b78402c5 - origin 18314669
+    - Registry at: 0x213490b80dEfBaa29aD613F5aecbeDD8334041A3

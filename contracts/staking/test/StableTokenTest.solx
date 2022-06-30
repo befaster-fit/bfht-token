@@ -1,0 +1,15 @@
+// SPDX-License-Identifier: MIT
+pragma solidity >=0.8;
+
+import "../../modules/uniswapV2Core/UniswapV2ERC20.sol";
+import "../IERC20Mintable.sol";
+
+contract StableTokenTest is UniswapV2ERC20, IERC20Mintable {
+    function mint(address to, uint256 value) external override {
+        _mint(to, value);
+    }
+
+    function burn(address from, uint256 value) external override {
+        _burn(from, value);
+    }
+}

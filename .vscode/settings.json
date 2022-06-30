@@ -1,0 +1,14 @@
+{
+    "typescript.tsdk": "./node_modules/typescript/lib",
+    "files.exclude": {},
+    "editor.detectIndentation": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "files.trimTrailingWhitespace": true,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "solidity.compileUsingRemoteVersion": "v0.8.0+commit.c7dfd78e",
+    "solidity.compilerOptimization": 800
+}

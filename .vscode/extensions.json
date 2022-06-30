@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "christian-kohler.path-intellisense",
+        "mikestead.dotenv",
+        "atlassian.atlascode",
+        "juanblanco.solidity",
+        "dbaeumer.vscode-eslint",
+        "tintinweb.solidity-visual-auditor"
+    ]
+}
