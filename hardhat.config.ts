@@ -36,7 +36,7 @@ if (!infuraApiKey) {
 
 const privateKey: string | undefined = process.env.PK_MAINNET;
 if (!privateKey) {
-    throw new Error("Please set your PK in a .env file");
+    throw new Error("Please set your PK_MAINNET in a .env file");
 }
 
 function getChainConfig(network: keyof typeof chainIds): NetworkUserConfig {
@@ -68,10 +68,8 @@ const config: HardhatUserConfig = {
             },
             chainId: chainIds.hardhat,
             forking: {
-                // url: "https://eth-mainnet.alchemyapi.io/v2/MKDK53OWsz3b1r-robvusfglky6SsUk8",
-                // blockNumber: 13379767
-                url: "https://speedy-nodes-nyc.moralis.io/eccd18f425fef00211ffda0f/bsc/mainnet/archive",
-                blockNumber: 16821446,
+                url: "",
+                blockNumber: 1,
             },
         },
         goerli: getChainConfig("goerli"),
