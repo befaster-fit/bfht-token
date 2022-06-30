@@ -17,6 +17,9 @@
 > TRC20 tokens have been previously available for
 > bridging to the **BSC Mainnet** through the TEDEX.org
 > bridge. All TRC20 bridged tokens have been locked to a
-> smart contract ([address: TBdBwijMWmmMgepAqXdecJCYGuBg94srMo](https://tronscan.org/#/contract/TBdBwijMWmmMgepAqXdecJCYGuBg94srMo)),
+> smart contract 
+>
+>([address: TBdBwijMWmmMgepAqXdecJCYGuBg94srMo](https://tronscan.org/#/contract/TBdBwijMWmmMgepAqXdecJCYGuBg94srMo)),
 > later pegged/minted by a [pegged bridge](https://bscscan.com/address/0xb60398bd5e75b2d919bc2e6578f9efcf710a58ca).
+>
 > All rights for minting have already been revoked
